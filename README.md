@@ -14,6 +14,8 @@ I am Benjamin, a PhD researcher at the German Cancer Research Center (DKFZ), wor
 
 - [https://github.com/MIC-DKFZ/BreastDivider](https://github.com/MIC-DKFZ/BreastDivider) (MICCAI25 WOMEN): The first large-scale dataset and model for left/right breast segmentation in MRI, featuring over 17,000 3D scans with partial lesion annotations.
 
+I'm also a maintainer and contributor to the well-known [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) framework - one of the cornerstones of modern medical image segmentation.
+
 Aside from my main projects I regularly participate in a variety of challenges at MICCAI and other communities:
 
 - 🥇 **1st place [ODELIA](https://odelia2025.grand-challenge.org/) @ MICCAI 2025** - Breast Cancer Classification in MRI
