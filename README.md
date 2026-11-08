@@ -12,6 +12,8 @@ I am Benjamin, a PhD researcher at the German Cancer Research Center (DKFZ), wor
 
 - [https://github.com/MIC-DKFZ/VoxTell](https://github.com/MIC-DKFZ/VoxTell) (CVPR26): A 3D vision–language model that maps free-form text prompts, from single words to clinical sentences, directly to volumetric masks across CT, PET, and MRI, smimilar in spirit to SAM3.
 
+- [https://github.com/MIC-DKFZ/nnssl](https://github.com/MIC-DKFZ/nnssl): [nnFoundation](https://arxiv.org/abs/2609.26924) provides complementary convolutional and transformer-based 3D foundation models for radiology, pretrained on 2.1 million CT, MRI, and PET volumes from 125 datasets and integrated into nnU-Net and nnDetection.
+
 - [https://github.com/MIC-DKFZ/BreastDivider](https://github.com/MIC-DKFZ/BreastDivider) (MICCAI25 WOMEN): The first large-scale dataset and model for left/right breast segmentation in MRI, featuring over 17,000 3D scans with partial lesion annotations.
 
 I'm also a maintainer and contributor to the well-known [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) framework, one of the cornerstones of modern medical image segmentation.
@@ -20,7 +22,7 @@ Aside from my main projects I regularly participate in a variety of challenges a
 
 - 🥇 **1st place [MAMA-SYNTH](https://mamasynth.grand-challenge.org/) @ MICCAI 2026** - Breast DCE-MRI Synthesis without Contrast Agent
 - 🥇 **1st place [ODELIA](https://odelia2025.grand-challenge.org/) @ MICCAI 2025** - Breast Cancer Classification in MRI
-- 💰 **[Kaggle Vesuvius Challenge 2023](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection)** – 7th out of 1514, $6,500 prize for ancient ink detection
+- 💰 **[Kaggle Vesuvius Challenge 2023](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection)** – 7th out of 1,249, $6,500 prize for ancient ink detection
 - 🏅 AI Hero Award – Helmholtz Hackathon on Sustainable AI  
 
 Feel free to reach out if you're interested in collaboration or just want to chat!
