@@ -18,6 +18,7 @@ I'm also a maintainer and contributor to the well-known [nnU-Net](https://github
 
 Aside from my main projects I regularly participate in a variety of challenges at MICCAI and other communities:
 
+- 🥇 **1st place [MAMA-SYNTH](https://mamasynth.grand-challenge.org/) @ MICCAI 2026** - Breast DCE-MRI Synthesis without Contrast Agent
 - 🥇 **1st place [ODELIA](https://odelia2025.grand-challenge.org/) @ MICCAI 2025** - Breast Cancer Classification in MRI
 - 💰 **[Kaggle Vesuvius Challenge 2023](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection)** – 7th out of 1514, $6,500 prize for ancient ink detection
 - 🏅 AI Hero Award – Helmholtz Hackathon on Sustainable AI  
