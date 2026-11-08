@@ -6,6 +6,8 @@ I am Benjamin, a PhD researcher at the German Cancer Research Center (DKFZ), wor
 
 - [https://github.com/kaapana/kaapana](https://github.com/kaapana/kaapana): Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging.
 
+- [https://github.com/MIC-DKFZ/deki-smpc](https://github.com/MIC-DKFZ/deki-smpc) (JBHI26): Secure, decentralized analysis across German university hospitals (RACOON consortium) using secure multi-party computation and homomorphic encryption for federated learning.
+
 - [https://github.com/MIC-DKFZ/MeisenMeister](https://github.com/MIC-DKFZ/MeisenMeister): MeisenMeister is a framework for breast cancer classification on DCE-MRI. It is designed to help develop reproducible multi-stage pipelines, from dataset fingerprinting and experiment planning to ROI preprocessing, fold-safe training, benchmarking, and ROI-level inference.
 
 - [https://github.com/MIC-DKFZ/nnInteractive](https://github.com/MIC-DKFZ/nnInteractive): A comprehensive 3D interactive segmentation method supporting diverse prompts like points, scribbles, boxes, and a novel lasso prompt integrated into widely used image viewers like Napari, MITK and 3D Slicer.
